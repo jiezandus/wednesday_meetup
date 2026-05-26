@@ -19,4 +19,4 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由讨论
-2. 开发OpenClaw Skill 技能来操控自己的软硬件交互
+2. [Robin] 开发OpenClaw Skill 技能来操控自己的软硬件交互
