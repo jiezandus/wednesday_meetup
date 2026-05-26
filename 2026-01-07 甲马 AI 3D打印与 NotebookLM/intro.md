@@ -17,5 +17,5 @@ Talk is cheap, Let‘s do it
 
 本周的项目将包括并不仅限于：
 
-1. 甲马是一种流传于民间的图腾木刻版画，让我们用AI和3D打印来动手试试
-2. 探索当今AI Agent的天花板NotebookLM
+1. [Robin] 甲马是一种流传于民间的图腾木刻版画，让我们用AI和3D打印来动手试试
+2. [Ronghao] 探索当今AI Agent的天花板NotebookLM
