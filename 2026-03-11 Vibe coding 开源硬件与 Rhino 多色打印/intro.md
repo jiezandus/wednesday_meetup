@@ -18,6 +18,6 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由讨论
-2. Rebecca -在TRAE和VSCode上实现Vibe coding，对开源硬件实现编程。
-3. Token如流水，能省则省
-4. 嵇鹤–如何使用rhino和拓竹做一体文字多色打印
+2. [Rebecca] 在TRAE和VSCode上实现Vibe coding，对开源硬件实现编程。
+3. [Ronghao] Token如流水，能省则省
+4. [嵇鹤] 如何使用rhino和拓竹做一体文字多色打印
