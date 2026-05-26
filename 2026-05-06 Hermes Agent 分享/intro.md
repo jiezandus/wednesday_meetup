@@ -19,4 +19,4 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由分享
-2. Wordsworth -- e.acc华子 爱马仕分享
+2. [Wordsworth -- e.acc华子] 爱马仕分享
