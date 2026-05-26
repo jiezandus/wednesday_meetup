@@ -18,6 +18,6 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由分享
-2. 胡可桢Leo 如何从0开始长出个人投资知识库（Workbuddy+ Codex+ Obsidian）
-3. 子玥 设计类个人知识库的必要性 个人自研的claude code插件+obsidian+个人agent工作流
-4. digishow番外: 大模型开关与古法点赞👍
+2. [胡可桢Leo] 如何从0开始长出个人投资知识库（Workbuddy+ Codex+ Obsidian）
+3. [子玥] 设计类个人知识库的必要性 个人自研的claude code插件+obsidian+个人agent工作流
+4. [Robin] digishow番外: 大模型开关与古法点赞👍
