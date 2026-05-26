@@ -19,5 +19,5 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由分享
-2. 【角马】开源电影协议 与 Obsidian
-3. liberlive无弦吉他+小红书黑客松参赛体验
+2. [kaiyu]【角马】开源电影协议 与 Obsidian
+3. [嵇鹤] liberlive无弦吉他+小红书黑客松参赛体验
