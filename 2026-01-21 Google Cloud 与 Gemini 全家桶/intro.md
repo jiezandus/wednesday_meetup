@@ -18,4 +18,4 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由分享
-2. 2026 Google Cloud Export Summit & Gemini全家桶分享。
+2. [Ronghao] 2026 Google Cloud Export Summit & Gemini全家桶分享。
