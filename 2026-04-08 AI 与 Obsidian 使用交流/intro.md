@@ -19,4 +19,4 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由分享
-2. AI + Obsidian使用经验交流
+2. [Ronghao] AI + Obsidian使用经验交流
