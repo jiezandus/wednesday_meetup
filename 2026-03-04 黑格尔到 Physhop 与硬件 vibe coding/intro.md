@@ -19,5 +19,5 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由讨论
-2. 从黑格尔—马克思主义到Physhop，及DIIS黑客松3.0参赛体验
-3. vibe coding on hardware
+2. [嵇鹤] 从黑格尔—马克思主义到Physhop，及DIIS黑客松3.0参赛体验
+3. [baobig粒] vibe coding on hardware
