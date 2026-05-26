@@ -18,7 +18,7 @@ Talk is cheap, Let‘s do it
 本周的项目将包括并不仅限于：
 
 1. 自由分享
-2. Snapmaker U1 3D打印机试用分享
-3. Williampunk 小雪人解压按钮交互设计
-4. 现场装一个CLAWDBOT吧
-5. karp 用ai做网页交互
+2. [谷忻] Snapmaker U1 3D打印机试用分享
+3. [Williampunk] 小雪人解压按钮交互设计
+4. [Ronghao] 现场装一个CLAWDBOT吧
+5. [karp] 用ai做网页交互
